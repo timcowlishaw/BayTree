@@ -1,4 +1,5 @@
 # Bay Tree #
+
 ## A library for bayesian statistics, probability and Bayes nets in Scala ##
 
 This is a learning exercise intended to help me get my head around Bayes networks and various other statistical concepts. I'll be adding to it periodically as I learn more, Hopefully at some point it will be of practical use to both me and others. Features implemented so far:
