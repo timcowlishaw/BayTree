@@ -11,11 +11,11 @@ This is a learning exercise intended to help me get my head around Bayes network
     * Create the joint distribution of two random variables
 
 Here's a list of additional features I have planned:
-  * Conditional distributions
-  * Bayesian inference
-  * Bayes networks
-  * Markov Chains and HMMs
-  * Probably lots more.
+ * Conditional distributions
+ * Bayesian inference
+ * Bayes networks
+ * Markov Chains and HMMs
+ * Probably lots more.
 
 Comments and feedback gladly received, although you probably don't want to be using this in your own work just yet, as while I've been rigarous about testing the features I've implemented, interfaces may change as I continue working. I'll probably not accept pull-requests either, as the main point of the project is to work out how to do these things myself, however, if anything here is useful to you, please fork!
 
